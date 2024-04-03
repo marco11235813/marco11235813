@@ -18,7 +18,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-[![Microsoft Fabric](https://img.shields.io/static/v1?label=Microsoft%20Fabric&color=blue&style=flat-square&logo=microsoft-fabric)](https://logos.fandom.com/wiki/Microsoft_Fabric?)
+[![Microsoft Fabric](https://img.shields.io/static/v1?label=Microsoft%20Fabric&color=blue&style=flat-square&logo=microsoft-fabric)]
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
