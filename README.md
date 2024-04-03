@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco11235813" alt="marco11235813" /> </p>
 
-- 🌱 Estoy formandome en este momento en **Full Stack Development en Python (Html,CSS,JavaScript, Vue.js, Bootstrap, SQL Server, etc)**
+- 🌱 Estoy formandome en este momento en **Full Stack Development en Python (Html, CSS, JavaScript, Vue.js, Bootstrap, SQL Server, etc)**
 
 - 👨‍💻 Todos mis proyectos puedes encontrarlos en [https://github.com/marco11235813/](https://github.com/marco11235813/)
 
