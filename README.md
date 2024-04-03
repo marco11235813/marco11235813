@@ -18,7 +18,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAm0lEQVR4Ae3ZAQYCQRSEsUMls2MSmgnCoAQMqgIDKCc0QIYgEGJBIRFQSiURbqgkZuFI6iJCRZPFSi2fJRYH3D4CG6fgDw8HNvX0b4Dx9kAlfPnjyAf39ffw8AmJ0NChV2IkwPgC4F/B8B34jyA80e/gB/jmVwcGCQTUlxgf6A/kblyDAIHPXx7+AH4P+K+dpxh8x8Pvu4Y/uP/QL9gF+yZMgG8BmFAvQK/8fF6BOo6OoHVB/iOwFyB1wCLg6Mqj3D3zI/FwcAH4M6uhO8BOoMAvQ2H8j4CMoCAAAAAElFTkSuQmCC)](https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/Fabric_final_x256.png)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
