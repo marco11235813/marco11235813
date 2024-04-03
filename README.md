@@ -28,6 +28,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Microsoft Factory](https://img.shields.io/badge/Microsoft%20Factory-232F7E?style=flat-square&logo=microsoft-factory)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-232F7E?style=flat-square&logo=azure-data-factory)
 ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-232F7E?style=flat-square&logo=azure-synapse-analytics)
 ![Microsoft Data Activator](https://img.shields.io/badge/Microsoft%20Data%20Activator-232F7E?style=flat-square&logo=microsoft-data-activator)
