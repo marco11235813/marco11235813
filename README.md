@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Marco Caro 🐵</h1>
-<h3 align="center">Un Data Scientist y entusiasta en Data Analitycs y Data Engineer</h3>
+<h3 align="center">Data Scientist y entusiasta en Data Analitycs y Data Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco11235813" alt="marco11235813" /> </p>
 
 - 🌱 I’m currently learning **C#, OpenGL and Unreal Engine**
 
@@ -18,6 +19,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco11235813&layout=compact" alt="marco11235813" /></p>
-<p><img align="center" src="https://github-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marco11235813&show_icons=true" alt="marco11235813" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco11235813" alt="marco11235813" /> </p>
+
