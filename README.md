@@ -11,7 +11,7 @@
 ## ⚡ Tecnologias y Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=numpy)
