@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Unity, Python, Javascript, C++ or Contiki**
 
-- 📫 How to reach me **paceved@purdue.edu**
-
 - ⚡ Fun fact **I think I am funny**
 
 ## ⚡ Tecnologias y Skills
@@ -27,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## ⚡ Contactos:
+## 📫 Contactos:
 [![Linkedin Badge](https://img.shields.io/badge/-marcoantoniocaro22459711b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marco-antonio-caro-22459711b/)](www.linkedin.com/in/marco-antonio-caro-22459711b/)
 [![Gmail Badge](https://img.shields.io/badge/-marcocaro329@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcocaro329@gmail.com)](mailto:marcocaro329@gmail.com)
 
