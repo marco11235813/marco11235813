@@ -11,7 +11,7 @@
 ## ⚡ Tecnologias y Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=numpy)
@@ -21,7 +21,7 @@
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat&logo=beautifulsoup)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat&logo=powerbi)
 ![PowerQuery](https://img.shields.io/badge/-PowerQuery-black?style=flat&logo=powerquery)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat&logo=streamlit)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,9 +36,9 @@
 ![Microsoft Data Activator](https://img.shields.io/badge/Microsoft%20Data%20Activator-232F7E?style=flat-square&logo=microsoft-data-activator)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter)
+![colab](https://img.shields.io/badge/-colab-black?style=flat&logo=colabbadge)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 
