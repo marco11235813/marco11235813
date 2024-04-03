@@ -29,7 +29,7 @@
 
 <p align="left">
 <h3 align="left">Puedes contactarme en:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-marcoantoniocaro22459711b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marco-antonio-caro-22459711b/)](www.linkedin.com/in/marco-antonio-caro-22459711b/)
 [![Gmail Badge](https://img.shields.io/badge/-marcocaro329@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcocaro329@gmail.com)](mailto:marcocaro329@gmail.com)
 </p>
 
