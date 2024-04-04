@@ -1,6 +1,6 @@
-![image](images.jpg)
-<br />
-
+<p align="center">
+  <img src="https://github.com/JohannaRangel/FinalProject_YelpGoogleMaps/blob/main/assets/platformreviews.png" width="400" alt="platform">
+</p>
 <h1 align="center">Hola 👋, soy Marco Caro 🐵</h1>
 <h3 align="center">Data Scientist y entusiasta en Data Analitycs y Data Engineer</h3>
 
