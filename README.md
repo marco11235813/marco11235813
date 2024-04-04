@@ -35,11 +35,11 @@
 ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-232F7E?style=flat-square&logo=azure-synapse-analytics)
 ![Microsoft Data Activator](https://img.shields.io/badge/Microsoft%20Data%20Activator-232F7E?style=flat-square&logo=microsoft-data-activator)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter)
 ![colab](https://img.shields.io/badge/-colab-black?style=flat&logo=colabbadge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+
 
 
 
