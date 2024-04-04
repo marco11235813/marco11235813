@@ -1,4 +1,4 @@
-![image](image.png)
+![image.png](main/images.jpg))
 <br />
 
 <h1 align="center">Hola 👋, soy Marco Caro 🐵</h1>
