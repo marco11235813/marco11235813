@@ -53,7 +53,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco11235813&layout=compact" alt="marco11235813" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marco11235813&show_icons=true" alt="marco11235813" /></p>
+
 
 
